@@ -4,7 +4,7 @@ e=3                               #e는 편의상 3으로 고정(e값은 p,q와 
 a=2                               #페르마 소정리용 상수
 N=0                               #개인키 N 0으로 초기화
 minPQ=80                         #p,q의 최솟값, mimPQ>1
-maxPQ=6000                        #p,q의 최댓값, maxPQ>1
+maxPQ=600                        #p,q의 최댓값, maxPQ>1
 maxKeyLength=50000                    #최대 키 길이, keylength>1
 minKeyLength=30000                          #최소 키 길이
 

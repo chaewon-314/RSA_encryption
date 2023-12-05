@@ -78,7 +78,7 @@ def string_arrange():
                     
 
         string+=l
-    print(string)
+    print('최종 복호문: '+string)
     
 decryption()
 string_arrange()
