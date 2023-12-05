@@ -29,7 +29,11 @@ while boolean:
                 break
                 
 
+    #string+=l
+    l=l.replace('~','')
+    
     string+=l
+        
 print(string)
             
               
